@@ -2,7 +2,9 @@
 
 ## Monday and Tuesday
 
-Done with the setup for the rest_api_startcode, which u can see here: https://github.com/cwulfftorn/rest-jpa-devops-startcode. I have also pushed the project to my domain name: http://cwulfftorn.com/rest-jpa-devops-starter/api/xxx
+Done with the setup for the rest_api_startcode, which u can see here: https://github.com/cwulfftorn/rest-jpa-devops-startcode. 
+
+I have also pushed the project to my domain name: http://cwulfftorn.com/rest-jpa-devops-starter/api/xxx
 
 Done with the setup for the Movie project, which u can find here: https://github.com/cwulfftorn/Movie. 
 The project is not running properly, so i haven't tested the project. Because of that i haven't had the time to fix it cause i wanted to start with the rest of the exercises for this week.
